@@ -20,16 +20,16 @@ The following screenshots show Gesturio's main screens:
 - **Fingerspelling View (Hello)**: Text input plus live ASL sign cards for each letter. ![Translation view displaying the word "Hello" with individual ASL letter gesture cards](screenshots/translation-hello.jpeg)
 - **Fingerspelling View (Apple Swift Coding Challenge)**: Multi-word translation with each word shown as ASL letter tiles. ![Translation view showing the phrase "Apple Swift Coding Challenge" spelled out with ASL gesture cards](screenshots/translation-challenge.jpeg)
 
-
 ## Requirements
 
 - iOS 18.1 or later
-- Xcode 15.0 or later
+- Swift playground
 - Swift 5.9
 
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/Gesturi-Swift.git
    cd Gesturi-Swift
@@ -77,4 +77,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or support, please open an issue on GitHub or contact the maintainers. 
+For questions or support, please open an issue on GitHub or contact the maintainers.
