@@ -4,7 +4,7 @@
 
 ![Gesturio Icon](<Guestrio.swiftpm/Assets.xcassets/GesturioIcon.imageset/Gemini_Generated_Image_85yimq85yimq85yi (2).png>)
 
-Gesturio is an innovative iOS application designed to facilitate real-time American Sign Language (ASL) translation. Using intuitive gesture recognition, the app helps users learn and communicate through ASL, making sign language accessible and interactive.
+Gesturio is an innovative iOS application developed using **Swift Playgrounds**, designed to facilitate real-time American Sign Language (ASL) translation. Using intuitive gesture recognition, the app helps users learn and communicate through ASL, making sign language accessible and interactive.
 
 ## Features
 
@@ -37,12 +37,12 @@ The following screenshots show Gesturio's main screens:
    cd Gesturi-Swift
    ```
 
-2. Open the project in Xcode:
-   - Open `Guestrio.swiftpm` in Xcode.
+2. Open the project:
+   - Open the `Guestrio.swiftpm` package directly in **Swift Playgrounds** on your Mac or iPad, or open it in Xcode.
 
 3. Build and run the app:
-   - Select a simulator or connected device.
-   - Press `Cmd + R` to build and run.
+   - In Swift Playgrounds, simply tap/click "Run".
+   - In Xcode, select a simulator or connected device and press `Cmd + R` to build and run.
 
 ## Usage
 
