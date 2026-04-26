@@ -1,5 +1,7 @@
 # Gesturio
 
+## Swift Coding Challenge
+
 ![Gesturio Icon](<Guestrio.swiftpm/Assets.xcassets/GesturioIcon.imageset/Gemini_Generated_Image_85yimq85yimq85yi (2).png>)
 
 Gesturio is an innovative iOS application designed to facilitate real-time American Sign Language (ASL) translation. Using intuitive gesture recognition, the app helps users learn and communicate through ASL, making sign language accessible and interactive.
